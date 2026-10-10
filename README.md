@@ -124,7 +124,7 @@ Konsep intinya: **satu aplikasi portable, satu port, satu alamat**, dengan lapis
    │              ▼                ▼                │
    │      ┌──────────────┐  ┌──────────────┐        │
    │      │  Mesin IPP   │  │ Mesin WebDAV │        │
-   │      │ (+auth sendiri)│ │ (+login)     │        │
+   │      │ (+auth sendiri)│ │ (+login)     │       │
    │      └──────┬───────┘  └──────┬───────┘        │
    └─────────────┼─────────────────┼────────────────┘
                  ▼                 ▼
